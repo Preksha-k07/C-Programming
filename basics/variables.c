@@ -2,7 +2,7 @@
 
 int main()
 {
-    int age = 20;
+    int age = 21;
     float temperature = 25.5;
     char grade = 'A';
 
